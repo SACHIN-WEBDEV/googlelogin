@@ -8,14 +8,7 @@ import StyledFirebaseAuth from "react-firebaseui/StyledFirebaseAuth";
 
 // Get the Firebase config from the auto generated file.
 const firebaseConfig = {
-  apiKey: "AIzaSyC3M6EK8yZsiKEAeX-4ItsGEsS-2kfNRUw",
-  authDomain: "login-71dfc.firebaseapp.com",
-  databaseURL: "https://login-71dfc.firebaseio.com",
-  projectId: "login-71dfc",
-  storageBucket: "login-71dfc.appspot.com",
-  messagingSenderId: "684369063533",
-  appId: "1:684369063533:web:8c490f38ff51f9341e5964",
-  measurementId: "G-8QJCG0MDD4",
+
 };
 
 // Instantiate a Firebase app.
